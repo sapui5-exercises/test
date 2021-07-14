@@ -1,0 +1,12 @@
+implementation unmanaged in class zbp_i_customer_c_c unique;
+//strict; //Comment this line in to enable strict mode. The strict mode is prerequisite to be future proof regarding syntax and to be able to release your BO.
+
+
+define behavior for ZI_CUSTOMER_C_C alias Customer_CE
+//late numbering
+//lock master
+//authorization master ( instance )
+etag master calculatedetag
+{
+  update;
+}

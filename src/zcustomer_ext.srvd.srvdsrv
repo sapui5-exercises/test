@@ -1,0 +1,4 @@
+@EndUserText.label: 'Customer with additional fields'
+define service ZCUSTOMER_EXT {
+  expose ZI_CUSTOMER_C_C as Customer;
+}

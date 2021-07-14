@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZCM_SERV_CONS</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Messages for customer service consumption scenario</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCM_SERV_CONS</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Error when accessing remote system</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCM_SERV_CONS</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Error when instantiating the client proxy</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCM_SERV_CONS</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Error when creating read request</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCM_SERV_CONS</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Error when converting filter into a ranges table</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCM_SERV_CONS</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Filtering on local fields is not allowed</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCM_SERV_CONS</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Currency code is not supplied</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCM_SERV_CONS</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Sorting on local fields is not allowed</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCM_SERV_CONS</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>ID &amp;1 not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCM_SERV_CONS</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Error when reading customer data from remote system</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCM_SERV_CONS</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Negativer Betrag für Kunde &amp;1: &amp;2</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

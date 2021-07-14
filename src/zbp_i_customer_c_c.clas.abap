@@ -1,0 +1,5 @@
+CLASS zbp_i_customer_c_c DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_customer_c_c.
+ENDCLASS.
+
+CLASS zbp_i_customer_c_c IMPLEMENTATION.
+ENDCLASS.

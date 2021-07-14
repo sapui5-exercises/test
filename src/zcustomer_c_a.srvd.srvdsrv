@@ -1,0 +1,5 @@
+@EndUserText.label: 'ZCUSTOMER_C_A'
+@OData.schema.name: 'S4D425_CUSTOMER20_SRV'
+define service ZCUSTOMER_C_A {
+ expose ZCUST20; 
+ } 
